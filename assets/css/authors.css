@@ -1,0 +1,13 @@
+.authors-list-title {
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.author {
+    padding-left: 0;
+    list-style-type: none;
+}
+
+.author__name, .author__books {
+    font-weight: bold;
+}

@@ -1,0 +1,27 @@
+html, body {
+    height: 100%;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+.content {
+    flex: 1 0 auto;
+}
+
+.info-block {
+    margin-top: 10px;
+}
+
+.info-text {
+    color: #000;
+    font-size: 18px;
+}
+
+.text-quantity, .text-rent {
+    display: block;
+    font-size: 18px;
+    font-weight: bold;
+}

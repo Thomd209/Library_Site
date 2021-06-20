@@ -1,0 +1,20 @@
+.book-list {
+    padding-left: 0;
+}
+
+.book-list__item {
+    list-style-type: none;
+}
+
+.btn-update {
+    margin-bottom: 10px;
+}
+
+.btn-update__link {
+    color: #fff;
+    text-decoration: none;
+}
+
+.btn-update__link:hover {
+    color: #fff;
+}

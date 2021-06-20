@@ -1,0 +1,13 @@
+.genres-list-title {
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.genre {
+    padding-left: 0;
+    list-style-type: none;
+}
+
+.genre__name, .genre__books {
+    font-weight: bold;
+}

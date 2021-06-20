@@ -1,0 +1,11 @@
+.add-book-label, .add-book-input {
+    display: block;
+}
+
+.btn-submit {
+    margin-top: 10px;
+}
+
+.footer {
+    margin-top: 20px;
+}

@@ -1,0 +1,7 @@
+.add-genre-label, .add-genre-input {
+    display: block;
+}
+
+.btn-submit {
+    margin-top: 10px;
+}

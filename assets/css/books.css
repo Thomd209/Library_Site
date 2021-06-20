@@ -1,0 +1,12 @@
+.book-list {
+    margin-bottom: 10px;
+    padding: 0;
+}
+
+.book-list__item {
+    list-style-type: none;
+}
+
+.book-list__explanation {
+    font-weight: bold;
+}

@@ -1,0 +1,21 @@
+.author {
+    padding-left: 0;
+    list-style-type: none;
+}
+
+.author__name, .author__books {
+    font-weight: bold;
+}
+
+.link-delete {
+    color: #fff;
+    text-decoration: none;
+}
+
+.link-delete:hover {
+    color: #fff;
+}
+
+.btn-delete {
+    margin-bottom: 20px;
+}
